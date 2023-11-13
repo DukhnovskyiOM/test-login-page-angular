@@ -1,6 +1,6 @@
 # Test-page-login-angular
 
-[DEMO](https://65520cf760bb2a489c622781--visionary-puffpuff-a56260.netlify.app/user).
+[DEMO](https://65520cf760bb2a489c622781--visionary-puffpuff-a56260.netlify.app).
 
 Тестовое задание
 Используя Angular создать форму регистрации состоящей из двух этапов и страницу приветствия пользователя.
